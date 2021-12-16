@@ -1,16 +1,43 @@
-# nft_preview_card_component
+# Frontend Mentor - NFT preview card component solution
 
-A new Flutter project.
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Getting Started
+## Table of contents
 
-This project is a starting point for a Flutter application.
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-A few resources to get you started if this is your first Flutter project:
+## Overview
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### The challenge
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Users should be able to:
+
+- View the optimal layout depending on their device's screen size
+- See hover states for interactive elements
+
+### Links
+
+- Solution URL: https://github.com/ninjacanthi1995/nft-preview-card-component
+- Live Site URL: https://nft-preview-card-chou.netlify.app/#/
+
+## My process
+
+### Built with
+
+- Flutter
+- Mobile-first workflow
+
+## Author
+
+- Website - https://portfolio-chou.netlify.app/
+- Frontend Mentor - https://www.frontendmentor.io/profile/ninjacanthi1995
